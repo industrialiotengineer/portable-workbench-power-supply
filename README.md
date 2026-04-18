@@ -1,16 +1,26 @@
 # portable-workbench-power-supply
 
-DIY Portable Workbench Power Supply with multiple outputs (1.25v - 10v adjustable) – circuit and components
+## 📷 Project Images
 
-# Portable Workbench Power Supply
+![Project Image](CircuitDiagram.jpg)
 
-## 📌 Description
+---
 
-This is a DIY portable workbench power supply with multiple outputs.
+## 🧠 Working Principle
 
-## 🔧 Components
+The power supply converts input voltage into multiple regulated outputs using voltage regulator modules.  
+It ensures stable voltage for testing electronic circuits safely.
 
-- 12v Adapter
-- Voltage regulator
-- DC Dc modules
-- Wires
+---
+
+## ⚠️ Safety Note
+
+- Always check polarity before connecting devices
+- Avoid short circuits
+- Use proper insulation
+
+---
+
+## 🙌 Support
+
+If you like this project, support by subscribing to the YouTube channel and sharing with others.
