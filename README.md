@@ -2,8 +2,6 @@
 
 ## 📷 Project Images
 
-## 📷 Project Images
-
 ### Front View
 
 ![Front](images/front.png)
