@@ -1,4 +1,29 @@
-# portable-workbench-power-supply
+# 🔋 Portable Workbench Power Supply
+
+DIY Portable Workbench Power Supply with adjustable output (1.25V – 10V)
+
+![Final Output](images/test1.png)
+
+---
+
+## ⚡ Features
+
+- Adjustable output voltage (1.25V – 10V)
+- Built-in voltmeter for real-time voltage monitoring
+- Control knob for precise voltage adjustment
+- 2+ hours battery backup
+- Lightweight and portable (easy to carry in bag)
+- Strong and durable design
+- Multiple output options:
+  - DC output pins
+  - USB output (5V)
+  - Banana plug terminals
+- Safety fuse protection (10A)
+- Suitable for electronics testing and DIY projects
+
+---
+
+---
 
 ## 📷 Project Images
 
@@ -6,21 +31,23 @@
 
 ![Front](images/front.png)
 
-### back View
+### Inside Components
 
-![Front](images/back.png)
+![Inside](images/inside.png)
 
-### Internal Circuit
+### Circuit Diagram
 
 ![Wiring](images/circuit.jpg)
 
-### Final Output
+### Back View
 
-![Output](images/test1.png)
+![Back](images/back.png)
 
-### Final Output
+### Alternate View
 
 ![Output](images/test2.png)
+
+> Portable and compact power supply for electronics testing
 
 ## 🧠 Working Principle
 
@@ -29,11 +56,30 @@ It ensures stable voltage for testing electronic circuits safely.
 
 ---
 
-## ⚠️ Safety Note
+## ⚠️ Safety Precautions
 
-- Always check polarity before connecting devices
+- Always check input voltage before connecting
+- Ensure correct polarity
 - Avoid short circuits
-- Use proper insulation
+- Do not touch live wires while powered
+- Use proper insulation for all connections
+
+---
+
+## 🛠️ Build Notes
+
+This project does not require any programming.
+
+All outputs are generated using voltage regulator modules and proper wiring connections.
+
+---
+
+## 🎯 Applications
+
+- Electronics testing
+- DIY projects
+- Lab experiments
+- Mobile repair workbench
 
 ---
 
