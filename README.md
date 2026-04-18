@@ -4,7 +4,7 @@
 
 ![Project Image](CircuitDiagram.jpg)
 
----
+## ![Project Image](portable-workbench-pic-1.jpg)
 
 ## 🧠 Working Principle
 
