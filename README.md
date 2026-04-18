@@ -23,6 +23,42 @@ DIY Portable Workbench Power Supply with adjustable output (1.25V – 10V)
 
 ---
 
+## 🔧 Components Used
+
+### 🔋 Power & Battery Section
+
+- 18650 Lithium-ion Batteries – 4 pcs (4S pack)
+- 4S BMS (Battery Management System)
+
+### ⚡ Input / Charging Section
+
+- 12V DC Female Connector (Input)
+- 10A Fuse + Holder
+- ON/OFF Switch – 2 pcs
+
+### 🔄 Power Conversion Section
+
+- DC-DC Step-Up Module (6009 / 6019)
+- DC-DC Step-Down Module (4015)
+- 10K Multi-turn Potentiometer
+
+### 🔌 Output Section
+
+- 12V DC Female Connector (Output)
+- USB Female Connector (5V output)
+- Banana Connectors (Red & Black)
+
+### 💡 Indicators & Monitoring
+
+- 7-Segment Voltmeter Display
+- 5mm LEDs – 2 pcs (Red & Green)
+- 1K Resistors – 2 pcs
+
+### 🔧 Miscellaneous
+
+- Connection Wires (proper thickness recommended)
+- Enclosure / Storage Box
+
 ---
 
 ## 📷 Project Images
@@ -37,7 +73,7 @@ DIY Portable Workbench Power Supply with adjustable output (1.25V – 10V)
 
 ### Circuit Diagram
 
-![Wiring](images/circuit.jpg)
+![Circuit](images/circuit.png)
 
 ### Back View
 
@@ -53,6 +89,7 @@ DIY Portable Workbench Power Supply with adjustable output (1.25V – 10V)
 
 The power supply converts input voltage into multiple regulated outputs using voltage regulator modules.  
 It ensures stable voltage for testing electronic circuits safely.
+The system uses a DC input source which is regulated using buck converter modules to provide stable adjustable output voltage.
 
 ---
 
