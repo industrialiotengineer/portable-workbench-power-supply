@@ -2,9 +2,27 @@
 
 ## 📷 Project Images
 
-![Project Image](CircuitDiagram.jpg)
+## 📷 Project Images
 
-## ![Project Image](portable-workbench-pic-1.jpg)
+### Front View
+
+![Front](images/front.png)
+
+### back View
+
+![Front](images/back.png)
+
+### Internal Circuit
+
+![Wiring](images/circuit.jpg)
+
+### Final Output
+
+![Output](images/test1.png)
+
+### Final Output
+
+![Output](images/test2.png)
 
 ## 🧠 Working Principle
 
