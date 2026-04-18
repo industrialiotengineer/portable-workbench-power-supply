@@ -27,8 +27,8 @@ DIY Portable Workbench Power Supply with adjustable output (1.25V – 10V)
 
 ### 🔋 Power & Battery Section
 
-- 18650 Lithium-ion Batteries – 4 pcs (4S pack)
-- 4S BMS (Battery Management System)
+- 18650 Lithium-ion Batteries (2500mah) – 4 pcs (4S pack)
+- 4S BMS (Battery Management System) 4s40Amp
 
 ### ⚡ Input / Charging Section
 
@@ -73,7 +73,7 @@ DIY Portable Workbench Power Supply with adjustable output (1.25V – 10V)
 
 ### Circuit Diagram
 
-![Circuit](images/circuit.png)
+![Circuit](images/circuit.jpg)
 
 ### Back View
 
