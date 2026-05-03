@@ -1,34 +1,80 @@
 # 🔋 Portable Workbench Power Supply
 
-DIY Portable Workbench Power Supply with adjustable output (1.25V – 10V)
+🔥 DIY Portable Workbench Power Supply with adjustable output (1.25V – 10V), built for electronics testing, repair, and lab work.
 
-![Final Output](images/test1.png)
+---
+
+![Power Supply](./assets/final.jpg)
+
+---
+
+## ⚡ Quick Start
+
+1. Connect input power (12V DC)
+2. Turn ON the main switch
+3. Adjust voltage using the control knob
+4. Monitor output on voltmeter display
+5. Use required output (DC / USB / Banana terminals)
 
 ---
 
 ## ⚡ Features
 
-- Adjustable output voltage (1.25V – 10V)
-- Built-in voltmeter for real-time voltage monitoring
-- Control knob for precise voltage adjustment
+- Adjustable output voltage (**1.25V – 10V**)
+- Built-in voltmeter for real-time monitoring
+- Precision control knob (fine tuning)
 - 2+ hours battery backup
-- Lightweight and portable (easy to carry in bag)
-- Strong and durable design
+- Lightweight & portable design
+- Strong and durable enclosure
 - Multiple output options:
   - DC output pins
   - USB output (5V)
   - Banana plug terminals
+
 - Safety fuse protection (10A)
-- Suitable for electronics testing and DIY projects
 
 ---
 
-## 🔧 Components Used
+## 💡 Why This Project?
+
+- Portable power supply for field work
+- No programming required
+- Useful for beginners and professionals
+- Multi-output system in one compact unit
+- Ideal for repair & testing setups
+
+---
+
+## 📸 Project Preview
+
+### 🔧 Front View
+
+![Front](./assets/front.jpg)
+
+### 🔍 Inside Components
+
+![Inside](./assets/inside.jpg)
+
+### 🔌 Circuit Diagram
+
+![Circuit](./assets/circuit.jpg)
+
+### 🔙 Back View
+
+![Back](./assets/back.jpg)
+
+### ⚡ Output View
+
+![Output](./assets/output.jpg)
+
+---
+
+## 🛠️ Components Used
 
 ### 🔋 Power & Battery Section
 
-- 18650 Lithium-ion Batteries (2500mah) – 4 pcs (4S pack)
-- 4S BMS (Battery Management System) 4s40Amp
+- 18650 Lithium-ion Batteries (2500mAh) – 4 pcs (4S pack)
+- 4S BMS (Battery Management System – 40A)
 
 ### ⚡ Input / Charging Section
 
@@ -56,58 +102,31 @@ DIY Portable Workbench Power Supply with adjustable output (1.25V – 10V)
 
 ### 🔧 Miscellaneous
 
-- Connection Wires (proper thickness recommended)
+- Connection wires (proper thickness recommended)
 - Enclosure / Storage Box
 
 ---
 
-## 📷 Project Images
-
-### Front View
-
-![Front](images/front.png)
-
-### Inside Components
-
-![Inside](images/inside.png)
-
-### Circuit Diagram
-
-![Circuit](images/circuit.jpg)
-
-### Back View
-
-![Back](images/back.png)
-
-### Alternate View
-
-![Output](images/test2.png)
-
-> Portable and compact power supply for electronics testing
-
 ## 🧠 Working Principle
 
-The power supply converts input voltage into multiple regulated outputs using voltage regulator modules.  
-It ensures stable voltage for testing electronic circuits safely.
-The system uses a DC input source which is regulated using buck converter modules to provide stable adjustable output voltage.
+The system uses DC-DC converter modules to regulate and adjust voltage output.
+
+- Input power is supplied through DC input
+- Battery pack stores energy for portability
+- Step-up and step-down modules regulate voltage
+- Output voltage is adjusted using potentiometer
+- Voltmeter displays real-time output
+
+This ensures **stable and safe voltage supply** for electronics testing.
 
 ---
 
-## ⚠️ Safety Precautions
+## 🔋 Power System
 
-- Always check input voltage before connecting
-- Ensure correct polarity
-- Avoid short circuits
-- Do not touch live wires while powered
-- Use proper insulation for all connections
-
----
-
-## 🛠️ Build Notes
-
-This project does not require any programming.
-
-All outputs are generated using voltage regulator modules and proper wiring connections.
+- 4S Li-ion battery pack (18650 cells)
+- BMS for protection (overcharge / discharge)
+- External DC input support
+- Portable standalone operation
 
 ---
 
@@ -117,9 +136,57 @@ All outputs are generated using voltage regulator modules and proper wiring conn
 - DIY projects
 - Lab experiments
 - Mobile repair workbench
+- Portable power source
 
 ---
 
-## 🙌 Support
+## ⚠️ Safety Notes
 
-If you like this project, support by subscribing to the YouTube channel and sharing with others.
+- Always verify input voltage before use
+- Maintain correct polarity
+- Avoid short circuits
+- Do not touch live wires
+- Use proper insulation
+
+---
+
+## 🛠️ Build Notes
+
+- No programming required
+- Fully hardware-based design
+- Simple wiring + module integration
+
+---
+
+## 📂 Folder Structure
+
+```
+Portable-Power-Supply
+ ├── README.md
+ ├── assets/
+ │   ├── final.jpg
+ │   ├── front.jpg
+ │   ├── inside.jpg
+ │   ├── circuit.jpg
+ │   ├── back.jpg
+ │   └── output.jpg
+```
+
+---
+
+## ❤️ Support
+
+If this project helped you:
+
+⭐ Star this repo
+👍 Share with others
+🔔 Subscribe for more DIY electronics projects
+
+---
+
+## 👨‍💻 Author
+
+**Raju K**
+Industrial IoT Engineer
+
+🔗 GitHub: https://github.com/industrialiotengineer
