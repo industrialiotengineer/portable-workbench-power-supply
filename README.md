@@ -1,19 +1,19 @@
 # 🔋 Portable Workbench Power Supply
 
-🔥 DIY Portable Workbench Power Supply with adjustable output (1.25V – 10V), built for electronics testing, repair, and lab work.
+🔥 DIY Portable Workbench Power Supply with adjustable output (**1.25V – 10V**) for electronics testing and lab work.
 
 ---
 
-![Power Supply](./assets/final.jpg)
+![Final Output](./images/test1.png)
 
 ---
 
 ## ⚡ Quick Start
 
-1. Connect input power (12V DC)
-2. Turn ON the main switch
-3. Adjust voltage using the control knob
-4. Monitor output on voltmeter display
+1. Connect 12V input power
+2. Turn ON the switch
+3. Adjust voltage using knob
+4. Monitor voltage on display
 5. Use required output (DC / USB / Banana terminals)
 
 ---
@@ -22,16 +22,21 @@
 
 - Adjustable output voltage (**1.25V – 10V**)
 - Built-in voltmeter for real-time monitoring
-- Precision control knob (fine tuning)
+- Precision control knob
 - 2+ hours battery backup
 - Lightweight & portable design
-- Strong and durable enclosure
-- Multiple output options:
-  - DC output pins
-  - USB output (5V)
-  - Banana plug terminals
+- Strong and durable build
 
-- Safety fuse protection (10A)
+### 🔌 Multiple Output Options
+
+- DC output pins
+- USB output (5V)
+- Banana plug terminals
+
+### 🛡️ Protection
+
+- 10A fuse protection
+- Safe for electronics testing
 
 ---
 
@@ -39,9 +44,8 @@
 
 - Portable power supply for field work
 - No programming required
-- Useful for beginners and professionals
-- Multi-output system in one compact unit
-- Ideal for repair & testing setups
+- Beginner-friendly + practical use
+- All-in-one compact solution
 
 ---
 
@@ -49,11 +53,11 @@
 
 ### 🔧 Front View
 
-![Front](./assets/front.jpg)
+![Front](./assets/front.png)
 
 ### 🔍 Inside Components
 
-![Inside](./assets/inside.jpg)
+![Inside](./assets/inside.png)
 
 ### 🔌 Circuit Diagram
 
@@ -61,20 +65,22 @@
 
 ### 🔙 Back View
 
-![Back](./assets/back.jpg)
+![Back](./assets/back.png)
 
 ### ⚡ Output View
 
-![Output](./assets/output.jpg)
+![Output](./assets/test2.png)
+
+> Portable and compact power supply for electronics testing
 
 ---
 
-## 🛠️ Components Used
+## 🔧 Components Used
 
 ### 🔋 Power & Battery Section
 
 - 18650 Lithium-ion Batteries (2500mAh) – 4 pcs (4S pack)
-- 4S BMS (Battery Management System – 40A)
+- 4S BMS (Battery Management System 40A)
 
 ### ⚡ Input / Charging Section
 
@@ -109,41 +115,22 @@
 
 ## 🧠 Working Principle
 
-The system uses DC-DC converter modules to regulate and adjust voltage output.
+The power supply uses DC-DC converter modules to regulate voltage.
 
 - Input power is supplied through DC input
-- Battery pack stores energy for portability
+- Battery pack provides portable operation
 - Step-up and step-down modules regulate voltage
 - Output voltage is adjusted using potentiometer
-- Voltmeter displays real-time output
+- Voltmeter displays real-time voltage
 
-This ensures **stable and safe voltage supply** for electronics testing.
-
----
-
-## 🔋 Power System
-
-- 4S Li-ion battery pack (18650 cells)
-- BMS for protection (overcharge / discharge)
-- External DC input support
-- Portable standalone operation
+This ensures stable and safe power for electronic testing.
 
 ---
 
-## 🎯 Applications
+## ⚠️ Safety Precautions
 
-- Electronics testing
-- DIY projects
-- Lab experiments
-- Mobile repair workbench
-- Portable power source
-
----
-
-## ⚠️ Safety Notes
-
-- Always verify input voltage before use
-- Maintain correct polarity
+- Always check input voltage before connecting
+- Ensure correct polarity
 - Avoid short circuits
 - Do not touch live wires
 - Use proper insulation
@@ -154,39 +141,23 @@ This ensures **stable and safe voltage supply** for electronics testing.
 
 - No programming required
 - Fully hardware-based design
-- Simple wiring + module integration
+- Simple wiring and module integration
 
 ---
 
-## 📂 Folder Structure
+## 🎯 Applications
 
-```
-Portable-Power-Supply
- ├── README.md
- ├── assets/
- │   ├── final.jpg
- │   ├── front.jpg
- │   ├── inside.jpg
- │   ├── circuit.jpg
- │   ├── back.jpg
- │   └── output.jpg
-```
+- Electronics testing
+- DIY projects
+- Lab experiments
+- Mobile repair workbench
 
 ---
 
 ## ❤️ Support
 
-If this project helped you:
+If you like this project:
 
 ⭐ Star this repo
 👍 Share with others
 🔔 Subscribe for more DIY electronics projects
-
----
-
-## 👨‍💻 Author
-
-**Raju K**
-Industrial IoT Engineer
-
-🔗 GitHub: https://github.com/industrialiotengineer
