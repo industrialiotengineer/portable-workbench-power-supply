@@ -4,7 +4,7 @@
 
 ---
 
-![Final Output](./images/test1.png)
+![Final Output](./assets/test1.png)
 
 ---
 
